@@ -37,11 +37,6 @@ nav, p, section, article {
     text-decoration: none;
 }
 
-header {
-    background-color: var(--primary-color);
-    color: var(--accemt-2-color);
-}
-
 .hero {
     position: relative;
 }
